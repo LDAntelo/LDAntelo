@@ -1,2 +1,2 @@
 - 👋 Hi, I’m @LDAntelo! a junior developer from Uruguay 
--I´m intreseted in software development and security systems.
+intreseted in software development and security systems.
